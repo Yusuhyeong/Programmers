@@ -10,3 +10,4 @@ java
 
 ## Contents
 - [lv 1](https://github.com/Yusuhyeong/Programmers/tree/main/lv1)
+- [lv 2](https://github.com/Yusuhyeong/Programmers/tree/main/lv2)
